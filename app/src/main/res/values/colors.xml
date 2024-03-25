@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorBackgroundMainLight">#F1F1F1</color>
+    <color name="colorBackgroundMainDark">#F1F1F1</color>
+
+    <color name="colorBackgroundSecondLight">#FCFCFC</color>
+    <color name="colorBackgroundSecondDark">#E2E2E2</color>
+
+    <color name="colorBackgroundThirdLight">#303030</color>
+    <color name="colorBackgroundThirdDark">#C6C6C6</color>
+
+    <color name="colorAppBarMain">#F1F1F1</color>
+    <color name="colorAppBarSecond">#E2E2E2</color>
+
+    <color name="colorStatusBarMain">#E2E2E2</color>
+    <color name="colorStatusBarSecond">#E2E2E2</color>
+
+    <color name="colorNavigationBarMain">#F1F1F1</color>
+    <color name="colorNavigationBarSecond">#F1F1F1</color>
+
+    <color name="colorTextMainLight">#474747</color>
+    <color name="colorTextMainDark">#303030</color>
+
+    <color name="colorTextSecondLight">#5E5E5E</color>
+    <color name="colorTextSecondDark">#474747</color>
+
+    <color name="colorNoActiveLight">#ABABAB</color>
+    <color name="colorNoActiveDark">#C6C6C6</color>
+
+    <color name="colorActiveLight">#303030</color>
+    <color name="colorActiveDark">#C6C6C6</color>
+
+    <color name="colorIconMainLight">#474747</color>
+    <color name="colorIconMainDark">#303030</color>
+
+    <color name="colorIconSecondLight">#5E5E5E</color>
+    <color name="colorIconSecondDark">#474747</color>
+
+    <color name="colorErrorBackground">#FFDAD6</color>
+    <color name="colorErrorText">#410002</color>
+    <color name="colorErrorIcon">#303030</color>
+
+    <color name="colorAccentBackground">#303030</color>
+    <color name="colorAccentText">#303030</color>
+    <color name="colorAccentIcon">#303030</color>
+</resources>

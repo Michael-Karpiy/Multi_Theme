@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorBackgroundMainLight" format="reference|color"/>
+    <attr name="colorBackgroundMainDark" format="reference|color"/>
+
+    <attr name="colorBackgroundSecondLight" format="reference|color"/>
+    <attr name="colorBackgroundSecondDark" format="reference|color"/>
+
+    <attr name="colorBackgroundThirdLight" format="reference|color"/>
+    <attr name="colorBackgroundThirdDark" format="reference|color"/>
+
+    <attr name="colorAppBarMain" format="reference|color"/>
+    <attr name="colorAppBarSecond" format="reference|color"/>
+
+    <attr name="colorStatusBarMain" format="reference|color"/>
+    <attr name="colorStatusBarSecond" format="reference|color"/>
+
+    <attr name="colorNavigationBarMain" format="reference|color"/>
+    <attr name="colorNavigationBarSecond" format="reference|color"/>
+
+    <attr name="colorTextMainLight" format="reference|color"/>
+    <attr name="colorTextMainDark" format="reference|color"/>
+
+    <attr name="colorTextSecondLight" format="reference|color"/>
+    <attr name="colorTextSecondDark" format="reference|color"/>
+
+    <attr name="colorNoActiveLight" format="reference|color"/>
+    <attr name="colorNoActiveDark" format="reference|color"/>
+
+    <attr name="colorActiveLight" format="reference|color"/>
+    <attr name="colorActiveDark" format="reference|color"/>
+
+    <attr name="colorIconMainLight" format="reference|color"/>
+    <attr name="colorIconMainDark" format="reference|color"/>
+
+    <attr name="colorIconSecondLight" format="reference|color"/>
+    <attr name="colorIconSecondDark" format="reference|color"/>
+
+    <attr name="colorErrorBackground" format="reference|color"/>
+    <attr name="colorErrorText" format="reference|color"/>
+    <attr name="colorErrorIcon" format="reference|color"/>
+
+    <attr name="colorAccentBackground" format="reference|color"/>
+    <attr name="colorAccentText" format="reference|color"/>
+    <attr name="colorAccentIcon" format="reference|color"/>
+</resources>
